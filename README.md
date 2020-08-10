@@ -1,7 +1,7 @@
-# Code accompanying manuscript entitled "Wildfire alters the disturbance impacts of an emerging forest disease via changes to host occurrence and demographic structure"
+## Code accompanying manuscript entitled "Wildfire alters the disturbance impacts of an emerging forest disease via changes to host occurrence and demographic structure"
 Simler-Williamson, Metz, Frangioso, and Rizzo 2020.
 
-## Relevant abbreviations:
+### Relevant abbreviations:
 - UMCA = bay laurel, Umbellularia californica
 - LIDE = tanoak, Notholithocarpus densiflorus (previous genus = Lithocarpus)
 - QUAG = coast live oak, Quercus agrifolia
@@ -12,7 +12,7 @@ Simler-Williamson, Metz, Frangioso, and Rizzo 2020.
 - DBH = diameter at breast height
 - Pr = Phytopthora ramorum
 
-## Variable descriptions:
+### Variable descriptions:
 - Big Sur Plot or "Plot" = plot identification number
 - Forest Alliance Type = index for Redwood forest (2) or Mixed Evergreen forest (1)
 - tmax = mean 30 year dry-season maximum temperature, derived from PRISM
